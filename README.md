@@ -1,4 +1,4 @@
-# C-sharp
+#C-sharp Development
 This code accesses a  data base and can show the content in a application. You can add a new record or delete one, you can sort these records. 
 This was an i opener because it was the first time i ever worked with databases. It taught me to use and understand how databases worked and how you can link it with an application.
 
